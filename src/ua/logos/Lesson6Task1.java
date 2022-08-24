@@ -15,7 +15,7 @@ public class Lesson6Task1 {
         interestRate = scanner.nextDouble();
         System.out.print("Enter numbers of years: ");
         numbersOfYears = scanner.nextDouble();
-        depositAmount = amountOfMoney * Math.pow((1+(interestRate/100)),numbersOfYears);
-        System.out.print("The amount of your deposit for " + numbersOfYears + " years equal: " + depositAmount+"$");
+        depositAmount = amountOfMoney * Math.pow((1 + (interestRate / 100)), numbersOfYears);
+        System.out.print("The amount of your deposit for " + numbersOfYears + " years equal: " + depositAmount + "$");
     }
 }
