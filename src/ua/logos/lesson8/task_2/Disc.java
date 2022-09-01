@@ -1,4 +1,4 @@
-package ua.logos.task_2;
+package ua.logos.lesson8.task_2;
 
 public class Disc {
     private String seasonsDisc;

@@ -1,4 +1,4 @@
-package ua.logos.task_2;
+package ua.logos.lesson8.task_2;
 
 public class HomeTask2 {
     public static void main(String[] args) {

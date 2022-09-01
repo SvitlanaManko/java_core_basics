@@ -1,4 +1,4 @@
-package ua.logos.task_1;
+package ua.logos.lesson8.task_1;
 
 public class Robot {
 

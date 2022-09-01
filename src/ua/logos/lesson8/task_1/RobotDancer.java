@@ -1,4 +1,6 @@
-package ua.logos.task_1;
+package ua.logos.lesson8.task_1;
+
+import ua.logos.lesson8.task_1.Robot;
 
 public class RobotDancer extends Robot {
     @Override

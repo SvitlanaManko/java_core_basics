@@ -1,4 +1,4 @@
-package ua.logos.task_3;
+package ua.logos.lesson8.task_3;
 
 public class Animal {
 
