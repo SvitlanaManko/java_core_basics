@@ -4,7 +4,7 @@ import ClassTask9.task2.first.Numerable;
 
 public class MyCalculation implements Numerable {
     @Override
-    public double devide(double a, double b) {
+    public double divide(double a, double b) {
         if (a > b) {
             return a / b;
         } else {

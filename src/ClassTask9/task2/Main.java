@@ -8,7 +8,7 @@ public class Main {
         System.out.println("'+' " + calculation.add(45, 32));
         System.out.println("'-' " + calculation.minus(44, 123));
         System.out.println("'*' " + calculation.multiply(43, 5));
-        System.out.println("'/' " + calculation.devide(76, 23));
+        System.out.println("'/' " + calculation.divide(76, 23));
 
     }
 }
